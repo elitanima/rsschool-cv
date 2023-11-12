@@ -5,6 +5,8 @@
 ---
 
 Discord: elitanima
+<br>
+
 [GitHub][github-link] [VK][vk-link] [Telegram][telegram-link] [Email][email-link]
 
 ###### About
