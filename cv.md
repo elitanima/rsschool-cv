@@ -9,7 +9,9 @@ Discord: elitanima
 
 ###### About
 
-Having automated the production of executive documentation while working as an engineer, I experienced the beauty of technology in practical application. While working as a courier via a mobile application during quarantine time, I realized that technology can improve the lives of many people, and isn't that wonderful? As I began to delve more deeply into the study of technology, I was once again convinced of the profound meaning of the statement of the great man Pierre-Simon Laplace:
+Having automated the production of executive documentation while working as an engineer, I experienced the beauty of technology in practical application. While working as a courier via a mobile application during quarantine time, I realized that technology can improve the lives of many people, and isn't that wonderful?
+
+As I began to delve more deeply into the study of technology, I was once again convinced of the profound meaning of the statement of the great man Pierre-Simon Laplace:
 
 > What we know is limitedly, and what we don't know is infinite.
 
@@ -69,8 +71,12 @@ document.forms.form_start.addEventListener('submit', (e) => {
 
 ###### HTML CSS | DevOps: Git | JavaScript programming | Controlling a web page with JavaScript
 
-[github-link]: https://github.com/elitanima "Open github pages"
-[vk-link]: https://vk.com/elitanima
-[telegram-link]: https://t.me/elitanima
-[email-link]: mailto:elitanima@vk.com
-[project-link]: https://elitanima.github.io/Homework_02/
+---
+
+###### ENGLISH A1 | to be continued...
+
+[github-link]: https://github.com/elitanima "Open GitHub profile"
+[vk-link]: https://vk.com/elitanima "Contact VK"
+[telegram-link]: https://t.me/elitanima "Contact Telegram"
+[email-link]: mailto:elitanima@vk.com "Send email"
+[project-link]: https://elitanima.github.io/Homework_02/ "Open GitHub pages"
