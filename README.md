@@ -1,1 +1,1 @@
-https://elitanima.github.io/rsschool-cv/cv
+https://elitanima.github.io/rsschool-cv/
